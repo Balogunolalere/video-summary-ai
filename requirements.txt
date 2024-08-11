@@ -1,0 +1,9 @@
+opencv-python-headless 
+scenedetect 
+docarray 
+torch 
+torchvision 
+transformers 
+scikit-learn 
+matplotlib 
+moviepy
